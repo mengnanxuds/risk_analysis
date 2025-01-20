@@ -78,13 +78,13 @@ Contributions to this project are welcome!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE.txt). See the LICENSE file for details.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 - **Email**: your-email@example.com
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- **LinkedIn**: [Mengnan Xu](https://linkedin.com/in/mengnanxu)
 
 Thank you for your interest and support!
 
